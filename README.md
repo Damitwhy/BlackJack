@@ -1,6 +1,6 @@
 ## The Epic Gambling Mavericks present ...
 ### ![image](https://github.com/kjrinuk/BlackJack/assets/169760722/4fcdd1db-0628-4af1-8dc2-73b0f5f1880d)
-
+   ![Am I Responsive](assets/images/amiresponsive.png)
 This is where you'll be entertained to the max.  **BlackJack** ***like*** **you've never seen it before** 😎.
 Blackjack is a vital part of any child's education and here you can gain a great understanding and become skillful at this lost art.  Tell all your friends!!
 
